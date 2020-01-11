@@ -1,8 +1,12 @@
-Análisis datos de LaLiga
+**Análisis datos de LaLiga**
 
-Python Jupyter Notebook con un análisis de datos de 3800 partdos de liga.
+Python Jupyter Notebook con un análisis de datos de 3800 partdos de liga española de fútbol, desde temporada 2009-10 hasta 2018-19.
 
 Variables del datset:
+
+* **HomeTeam** - Equipo local
+
+* **AwayTeam** - Equipo visitante
 
 * **FTHG**	- Full Time Home Goals - Goles equipo local al final
 
